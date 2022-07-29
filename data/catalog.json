@@ -1,0 +1,4388 @@
+[
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4666e852"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4666e852"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "germ"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "d8cd160f"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "d8cd160f"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "oats"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "71cc0bec"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "71cc0bec"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "allpurpose flour"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4f9b575c"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4f9b575c"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "lemon"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "519ff2b2"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "519ff2b2"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cinnamon"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "ba689685"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "ba689685"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "nutmeg"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "ef914f65"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "ef914f65"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "egg substitute"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "10d0a523"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "10d0a523"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "brown sugar"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "37a982f0"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "37a982f0"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "brandy"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "83ac56b8"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "83ac56b8"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "vanilla extract"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "f86ad140"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "f86ad140"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fruit bits"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "8b6f8826"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "8b6f8826"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "apples"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c0d1e1b8"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c0d1e1b8"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "pineapple"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "53d6f38a"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "53d6f38a"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "eggs"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c0b1b9fa"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c0b1b9fa"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "sugar"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "6763bd49"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "6763bd49"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "vanilla"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "348a74ec"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "348a74ec"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "820720a4"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "820720a4"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "milk"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c0a497f8"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c0a497f8"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "flour"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "297e0546"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "297e0546"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "shortening"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "13d5022d"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "13d5022d"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cheddar cheese"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "fbaa22a6"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "fbaa22a6"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "butter"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "3fb2e913"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "3fb2e913"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "garlic powder"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c4976753"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c4976753"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "salt"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "710d4ef6"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "710d4ef6"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "crisco"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "62995227"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "62995227"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "vinegar"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "74a407a5"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "74a407a5"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "baking powder"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "d4970881"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "d4970881"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "egg"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "570d3875"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "570d3875"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "chocolate"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "6e72a25e"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "6e72a25e"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cake flour"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "1bab4740"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "1bab4740"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "olive oil"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "25e5c005"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "25e5c005"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "garlic"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "1c1ac220"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "1c1ac220"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "hot pepper"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "e8fc20b5"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "e8fc20b5"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "whole wheat bread"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c301a159"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c301a159"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "chicken broth"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "34280299"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "34280299"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fresh parsley"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c8a7cc86"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c8a7cc86"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "parmesan cheese"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "9901b7f6"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "9901b7f6"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "coconut milk"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4f6b90ce"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4f6b90ce"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cocoa"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "7c050977"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "7c050977"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fiber coconut flour"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "e3e66fb6"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "e3e66fb6"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "baking soda"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c0949da5"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c0949da5"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "heavy cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "6ee4e426"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "6ee4e426"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "chocolate ice cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "93967444"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "93967444"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "bourbon"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "f130e1f"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "f130e1f"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "smooth peanut butter"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "2c8bde97"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "2c8bde97"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "chocolate syrup"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "a9cbcaf4"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "a9cbcaf4"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "whole wheat linguine"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "85f90c98"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "85f90c98"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "red pepper"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5cc2cdf4"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5cc2cdf4"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "pasta sauce"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "49809f8e"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "49809f8e"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "matchlike carrot"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "b89a090"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "b89a090"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "shrimp"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "6ef63047"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "6ef63047"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cheese"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "653ba87a"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "653ba87a"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fresh basil"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "ecbb2fd2"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "ecbb2fd2"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "onion"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "faf748df"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "faf748df"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "balsamic vinegar"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "44ffa8dc"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "44ffa8dc"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "shallot"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "ec7c32bc"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "ec7c32bc"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "soy sauce"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "fbd15fd7"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "fbd15fd7"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "ginger"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "baa349a1"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "baa349a1"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "grapeseed"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "cf2b1097"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "cf2b1097"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cilantro"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "10702884"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "10702884"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "verts"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5c84f42a"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5c84f42a"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "avocado"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "9a2e499b"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "9a2e499b"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "mango"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "f5cfdf98"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "f5cfdf98"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "red bell pepper"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "ffe51938"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "ffe51938"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cucumber"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "7dd15489"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "7dd15489"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cinnamon sticks"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "a44b5b4d"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "a44b5b4d"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "bay leaves"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "7d7d6608"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "7d7d6608"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "whole cloves"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "33bf6777"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "33bf6777"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "orange"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "fe5f2a23"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "fe5f2a23"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "water"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "90c3cf98"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "90c3cf98"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "crabs"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "faa74de7"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "faa74de7"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "buttermilk"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "c8945a6a"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "c8945a6a"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "cayenne"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "bab8bde0"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "bab8bde0"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "lime"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "fa8d4616"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "fa8d4616"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fresh cilantro"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "48f035ca"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "48f035ca"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "baking potatoes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "52a89437"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "52a89437"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "sour cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "33a27f6a"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "33a27f6a"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fresh chives"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "6f6eb32c"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "6f6eb32c"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "bacon bits"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "53ae2b86"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "53ae2b86"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "red potatoes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "a20ad688"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "a20ad688"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "orange bell pepper"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "e00d7906"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "e00d7906"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "leeks"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "9c793ae4"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "9c793ae4"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "tomatoes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "6914c4a9"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "6914c4a9"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "oregano"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "d5ad3702"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "d5ad3702"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "basil"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 101,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "634cac49"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "634cac49"
+        },
+        "merchandiseCategory": {
+            "nodeId": "6532adcd"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "fresh dill"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Long Description"
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": "0.99",
+        "currency": "USD",
+        "effectiveDate": "2020-12-17T05:00:00Z",
+        "imageUrl": "",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    }
+]
